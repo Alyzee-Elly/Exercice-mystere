@@ -17,6 +17,6 @@
     <a href="./code/php/login.php" class="btn btn-info btn-lg active" role="button" aria-pressed="true">Connectez vous</a>
     <a href="./code/php/register.php" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Inscrivez vous</a>
 
-
+ 
 </body>
 </html>
